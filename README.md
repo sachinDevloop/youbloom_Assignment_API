@@ -29,7 +29,7 @@ Step 4 : Open Cmd or Terminal "cd to project path"<br>
 Step 5 : composer install <br>
 Step 6 : php artisan migrate --seed <br>
 Step 7 : php artisan serve<br><br>   
-Step 8 : Open POSTMAN and user all services
+Step 8 : Open POSTMAN and use all services
 
 Note : .env file's database part should look like this
 
