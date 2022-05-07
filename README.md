@@ -58,7 +58,7 @@ DB_PASSWORD=<br>
 <strong>Pages you should see:</strong><br>
 	Route Page	: Project/routes/api.php <br>
 	Controller	: Project/app/Http/Controllers <br>
-	Unit Testing	: Project/tests/feature/ExampleTest<br>
+	Unit Testing	: Project/tests/feature/ExampleTest<br><br>
 	![image](https://user-images.githubusercontent.com/12134789/167262758-f658bc8f-4675-4b87-8f03-35678fa9b238.png)
 
     
