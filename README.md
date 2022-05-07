@@ -24,13 +24,12 @@
 
 Step 1 : Download the ZIP file and extract into root folder <br>
 Step 2 : Create an database by name 'youbloom'<br>
-Step 3 : Change database credentials according to your's in .env file <br>
+Step 3 : Change or Create database credentials according to your database, in .env file <br>
 Step 4 : Open Cmd or Terminal "cd to project path"<br>
-Step 5 : Change or create .env file <br>
-Step 6 : composer install <br>
-Step 7 : php artisan migrate --seed <br>
-Step 8 : php artisan serve<br><br>   
-Step 9 : Open POSTMAN and user all services
+Step 5 : composer install <br>
+Step 6 : php artisan migrate --seed <br>
+Step 7 : php artisan serve<br><br>   
+Step 8 : Open POSTMAN and user all services
 
 Note : .env file's database part should look like this
 
