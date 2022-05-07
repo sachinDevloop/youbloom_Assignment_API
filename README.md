@@ -34,12 +34,12 @@ Step 9 : Open POSTMAN and user all services
 
 Note : .env file's database part should look like this
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=youbloom
-DB_USERNAME=root
-DB_PASSWORD=
+DB_CONNECTION=mysql<br>
+DB_HOST=127.0.0.1<br>
+DB_PORT=3306<br>
+DB_DATABASE=youbloom<br>
+DB_USERNAME=root<br>
+DB_PASSWORD=<br>
 
 <strong>For Unit Testing:</strong>
 
