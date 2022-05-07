@@ -42,7 +42,7 @@ DB_PASSWORD=<br>
 
 <strong>For Unit Testing:</strong>
 
-<bulet> .\vendor\bin\phpunit.bat<br><br>   
+<bulet>put  .\vendor\bin\phpunit.bat  on CMD <br><br>   
 	
 	<strong>Methods:</strong>
 	
