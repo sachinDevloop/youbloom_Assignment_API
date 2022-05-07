@@ -17,6 +17,7 @@
 <strong>Software Requirement:</strong>
 1. PHP 8.1.5 latest one<br>
 2. Composer
+3. xampp/wampp server
 
 
 <strong>Steps to Getting Started With Project:</strong>
@@ -25,11 +26,20 @@ Step 1 : Download the ZIP file and extract into root folder <br>
 Step 2 : Create an database by name 'youbloom'<br>
 Step 3 : Change database credentials according to your's in .env file <br>
 Step 4 : Open Cmd or Terminal "cd to project path"<br>
-Step 5 : Change .env file <br>
+Step 5 : Change or create .env file <br>
 Step 6 : composer install <br>
 Step 7 : php artisan migrate --seed <br>
 Step 8 : php artisan serve<br><br>   
 Step 9 : Open POSTMAN and user all services
+
+Note : .env file's database part should look like this
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=youbloom
+DB_USERNAME=root
+DB_PASSWORD=
 
 <strong>For Unit Testing:</strong>
 
